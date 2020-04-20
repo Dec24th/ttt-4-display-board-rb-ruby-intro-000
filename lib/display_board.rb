@@ -16,7 +16,7 @@ def display_board(board)
   x = " X "
   o = " O "
 rows1 = "   " + "|" + "   " + "|" + "   "
-rows2 = "   " + "|" + "   " + "|" + "   "
+rows2 = "   " + "|" + "#{x}   " + "|" + "   "
 rows3 = "   " + "|" + "   " + "|" + "   "
 separator = "-----------"
 
