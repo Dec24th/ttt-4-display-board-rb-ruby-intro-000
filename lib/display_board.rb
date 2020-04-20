@@ -13,4 +13,3 @@ o = " O "
  puts separator
  puts rows3
 end
-
