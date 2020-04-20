@@ -8,8 +8,7 @@ x = " X "
 o = " O "
  puts rows1
  puts separator
- puts rows2[4]
- puts "#{x}"
+ puts rows2(board[4]) 
  puts separator
  puts rows3
 end
